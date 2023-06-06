@@ -1,0 +1,5 @@
+CPU: Unidad Central de Proceso
+GPU: Unidad Central de Graficos
+RAM: memoria de acceos aleatorio, memoria principal.
+ROM: Memoria de solo lectura. memoria secundaria
+

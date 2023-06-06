@@ -1,0 +1,5 @@
+ls: enlista los archivos contenidos en un directorio
+clear: limpia pantalla de trabajo
+mkdir: genera un directorio
+touch: genera archivos
+mv: mueve directorios o renombre directorios
